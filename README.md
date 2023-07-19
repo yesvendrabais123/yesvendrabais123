@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yesvendrabais123
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... Javascript
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... yesvendrabais@gmail.com
 
